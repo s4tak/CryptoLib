@@ -4,7 +4,7 @@ The project is about creating a symmetric encryption, it has 5 versions 1,2,3 I 
 
 <a href="https://ibb.co/Vg1rXqK"><img src="https://i.ibb.co/K2PRCr1/unknown.png" alt="unknown" border="0"></a>
 
-# Autors
+# Authors
 
 https://github.com/dan884075
 
