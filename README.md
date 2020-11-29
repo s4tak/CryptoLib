@@ -1,11 +1,46 @@
-# CryptoLib
 
-The project is about creating a symmetric encryption, it has 5 versions 1,2,3 I do not recommend them, the truth can be broken with some ease version 4 has some small problems but in time it is more efficient than version 5, the problem of the v5 is that if you are going to encrypt a very long text or a file it may take a long time, (obviously depending on the speed of your computer and the amount of data)
 
-<a href="https://ibb.co/Vg1rXqK"><img src="https://i.ibb.co/K2PRCr1/unknown.png" alt="unknown" border="0"></a>
+
+
 
 # Authors
 
 https://github.com/dan884075
 
 https://github.com/s4tak
+
+# CryptoLib
+
+_Una librería para el manejo de el cifrado simétrico DS(1-5)_
+
+
+## Uso 🔧
+
+<a href="https://ibb.co/Vg1rXqK"><img src="https://i.ibb.co/K2PRCr1/unknown.png" alt="unknown" border="0"></a>
+
+```
+import CryptoLib
+
+string=("My secret")
+CryptoLib.encV5.encode(string, "1234")
+CryptoLib.encV5.decode(test, "1234")
+```
+## ¿Como funciona? 🛠️
+
+### DS1
+### DS2
+### DS3
+### DS4
+### DS5
+
+## Advertencias ⚠️
+
+DS es un algoritmo de cifrado altamente vulnerable, no se recomienda su uso. Tenga en cuenta que ha sido desarrollado por diversión, por favor no lo utilice en algo que requira una buena seguridad.
+
+
+## Autores ✒️
+
+
+* **s4tak** - (https://github.com/s4tak)
+* **dan884074** - (https://github.com/dan884074)
+
