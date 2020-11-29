@@ -1,14 +1,3 @@
-
-
-
-
-
-# Authors
-
-https://github.com/dan884075
-
-https://github.com/s4tak
-
 # CryptoLib
 
 _Una librería para el manejo de el cifrado simétrico DS(1-5)_
@@ -22,8 +11,9 @@ _Una librería para el manejo de el cifrado simétrico DS(1-5)_
 import CryptoLib
 
 string=("My secret")
-CryptoLib.encV5.encode(string, "1234")
-CryptoLib.encV5.decode(test, "1234")
+ciphertext=CryptoLib.encV5.encode(string, "1234")
+plaintext=CryptoLib.encV5.decode(ciphertext, "1234")
+print(plaintext)
 ```
 ## ¿Como funciona? 🛠️
 
