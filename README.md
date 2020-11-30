@@ -25,7 +25,7 @@ print(plaintext)
 
 ## Advertencias ⚠️
 
-DS es un algoritmo de cifrado no está verificado como seguro, no se recomienda su uso. Tenga en cuenta que ha sido desarrollado por diversión, por favor no lo utilice en algo que requira seguridad.
+DS es un algoritmo de cifrado que no está verificado como seguro, no se recomienda su uso. Tenga en cuenta que ha sido desarrollado por diversión, por favor no lo utilice en algo que requira seguridad.
 
 
 ## Autores ✒️
