@@ -23,6 +23,16 @@ print(plaintext)
 ### DS4
 ### DS5
 
+
+## Explotando vulnerabilidades ⚔️
+
+### DS1
+### DS2
+### DS3
+### DS4
+### DS5
+
+
 ## Advertencias ⚠️
 
 DS es un algoritmo de cifrado que no está verificado como seguro, no se recomienda su uso. Tenga en cuenta que ha sido desarrollado por diversión, por favor no lo utilice en algo que requira seguridad.
