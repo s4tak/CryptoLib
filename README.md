@@ -15,23 +15,6 @@ ciphertext=CryptoLib.encV5.encode(string, "1234")
 plaintext=CryptoLib.encV5.decode(ciphertext, "1234")
 print(plaintext)
 ```
-## ¿Como funciona? 🛠️
-
-### DS1
-### DS2
-### DS3
-### DS4
-### DS5
-
-
-## Explotando vulnerabilidades ⚔️
-
-### DS1
-### DS2
-### DS3
-### DS4
-### DS5
-
 
 ## Advertencias ⚠️
 
